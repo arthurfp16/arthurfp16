@@ -3,8 +3,7 @@
 ## Sobre mim
 
 - 🤔 Sempre estou explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciencia da computação na Unifeob.
-- 🌱 Aprendendo mais sobre Data science.
+- 🎓 Estudando ADS na Unifeob.
 - Trabalhando como programador JR. na Unimed Leste Paulista
 
 ## Minhas Skills
